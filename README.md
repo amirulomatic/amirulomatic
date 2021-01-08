@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<img src="https://cdn.dribbble.com/users/2472418/screenshots/5981271/man_and_fly_800x600.gif">
+<img src="https://www.godfrey.com/-/media/godfrey/insights/digital/revamping-your-website/jv-revamping-your-website-fa-p1.gif?la=en&&hasF5724A98DC1D0D11A8C83B9408CC567D2AB3621">
 </p>
 <br />
 
