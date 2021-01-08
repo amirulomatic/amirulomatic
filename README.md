@@ -28,18 +28,38 @@
 
 
 
-<!--
-### Hi there 👋
-**amirulomatic/amirulomatic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi I'm Amirul <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-Here are some ideas to get you started:
+I'm Amirul I. A Frontend Developer from Dhaka, Bangladesh. I have been working with JavaScript And ReactJs for 2+ Years. I passionate in my job and love my profession.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:mailbox: Reach me out!
+
+
+
+<!-- My Desc -->
+
+- 🔭 I’m currently working on a Local Company
+- :computer: Most used line of code `display : flex;`
+- 🤔 I’m looking for Nothing.
+- 📫 How to reach me: Given Below.
+- 😄 Pronouns: Hridoy Amirul, Amirul, amirulomatic.
+- ⚡ Fun fact: I love code, thats why I'm sigle.
+
+#### Top Technologies
+
+<!-- Technologies -->
+
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
+[![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+
+[![React Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#) 
+
+
+<br />
+
+#### Business
+- :paperclip: [My Resume/CV](https://amirulomatic.com/resume.pdf)
+- :email: amirulomatic@gmail.com
