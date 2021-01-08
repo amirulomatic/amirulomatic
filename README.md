@@ -4,8 +4,7 @@
 <img src="https://www.esoftech.com/wp-content/uploads/2020/09/how-machine-learning-has-helped-web-development-evolve-image-800x450-2.gif">
 </p>
 
-<br />
-<br />
+
 ## Hi I'm Amirul <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 I'm Amirul I. A Frontend Developer from Dhaka, Bangladesh. I have been working with JavaScript And ReactJs for 2+ Years. I passionate in my job and love my profession.
