@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<img src="https://syedaraib.files.wordpress.com/2019/11/tna-dribbble-01.gif">
+<img src="https://fuertedevelopers.in/wp-content/uploads/2020/08/aboutus.gif">
 </p>
 <br />
 
