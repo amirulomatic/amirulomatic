@@ -8,11 +8,8 @@
 
 ## Hi I'm Amirul <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Amirul I. A Frontend Developer from Dhaka, Bangladesh. I have been working with JavaScript And ReactJs for 2+ Years. I passionate in my job and love my profession.
+I'm Amirul I. A Frontend Developer from Dhaka, Bangladesh. I have been working with JavaScript And ReactJs for 2+ Years. I'm passionate in my job and love my profession.
 
-
-
-<!-- My Desc -->
 
 - 🔭 I’m currently working on a Local Company
 - :computer: Most used line of code `display : flex;`
@@ -23,9 +20,6 @@ I'm Amirul I. A Frontend Developer from Dhaka, Bangladesh. I have been working w
 
 #### Top Technologies
 
-<!-- Technologies -->
-
-
 [![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#) 
 [![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#) 
 [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&labelColor=black&logo=css3&logoColor=7952B3)](#)
@@ -34,9 +28,11 @@ I'm Amirul I. A Frontend Developer from Dhaka, Bangladesh. I have been working w
 
 
 #### Business
+
 - :paperclip: [My Resume/CV](https://amirulomatic.com/resume.pdf)
 - :email: amirulomatic@gmail.com
 
+#### Get In Touch
 
 <p align="left">
   <a href="https://facebook.com/amirulomatic" target="_blank">
