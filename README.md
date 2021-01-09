@@ -16,7 +16,7 @@ I'm Amirul I. A Frontend Developer from Dhaka, Bangladesh. I have been working w
 - 🤔 I’m looking for Nothing.
 - 📫 How to reach me: Given Below.
 - 😄 Pronouns: Hridoy Amirul, Amirul, amirulomatic.
-- ⚡ Fun fact: I love code and busy in coding, thats why I'm sigle!
+- ⚡ Fun fact: I love code and busy in coding, thats why I'm single!
 
 #### Top Technologies
 
